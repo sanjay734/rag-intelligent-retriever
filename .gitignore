@@ -1,1 +1,5 @@
 .env
+venv/
+rag_env/
+__pycache__/
+*.pyc
